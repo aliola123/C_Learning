@@ -1,0 +1,55 @@
+					MONTH 1 CONCEP:TS TO LEARN (ALX)
+ 
+1.POINTERS IN C
+  •Declaring and dereferencing pointers
+  •Pointer arithmetic
+
+2.DATA STRUCTURE I
+  •Arrays
+    -Declaring and initializing arrays
+    -Accessing array elements
+    -Types of arrays (multidimensional arrays etc.)
+    -Strings as arrays.
+
+3.POINTERS IN C
+  •Pointers to pointers 
+
+4.RECURSION IN C
+  •Recursive functions
+  •Recursion vs iteration
+  •Solving problems(factorial, Fibonacci series, binary search) recursively
+
+5.COMMAND LINE BEHAVIOUR (CLB) FUNCTIONS
+  • Argument count and its application
+  • Argument vector/value and its application
+
+6. STATIC LIBRARIES IN C
+  • Definition of a library and its use
+  • The ‘ar’ and ‘ranlib’ functions for creating libraries
+  • Dynamic and static libraries(The differences)
+
+7. MEMORY MANAGEMENT IN C
+  • Memory allocation functions and application(malloc(),calloc(), realloc() & free()).
+
+8. PREPROCESSORS IN C (CPP)
+  • Understanding the compilation process
+  • Macros (definition and types-object like macros,function like macros etc. defining macros)
+  • Preprocessor directives 
+  • Predefined Macros and use.
+  • Include guards
+
+9. DATA STRUCTURE II
+  • Structs(Declaring and accessing structs)
+  • Pointers to structs
+  • Documentation of structs
+  • The typedef keyword
+
+10. POINTERS IN C
+  • Pointers to functions (syntax for declaration and application)
+
+11. VARIADIC FUNCTIONS 
+  • Declaration and definition
+  • The stdarg library.
+  • const keyword
+
+12. PRINTF GROUP PROJECT
