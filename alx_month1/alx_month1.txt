@@ -1,4 +1,4 @@
-					MONTH 1 CONCEP:TS TO LEARN (ALX)
+					MONTH 1 CONCEPTS TO LEARN (ALX)
  
 1.POINTERS IN C
   •Declaring and dereferencing pointers
